@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+    "settings": {
+    },
+    "namingRules": {
+      "fieldsMustBeCamelCase": true,
+      "localFunctionsShouldBeCamelCase": true,
+      "interfacesMustBePascalCase": true
+    },
+    "orderingRules": {
+      "usingDirectivesPlacement": "outsideNamespace"
+    },
+    "maintainabilityRules": {
+      "removeEmptyBlock": true,
+      "useImplicitType": true
+    },
+    "readabilityRules": {
+      "fileHeader": true,
+      "fileHeader": {
+        "copyrightText": false
+    },
+      "noInlineComments": true
+    }
+}
+  

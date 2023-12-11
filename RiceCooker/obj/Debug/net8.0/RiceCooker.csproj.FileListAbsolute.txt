@@ -1,0 +1,15 @@
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\bin\Debug\net8.0\RiceCooker.exe
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\bin\Debug\net8.0\RiceCooker.deps.json
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\bin\Debug\net8.0\RiceCooker.runtimeconfig.json
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\bin\Debug\net8.0\RiceCooker.dll
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\bin\Debug\net8.0\RiceCooker.pdb
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.AssemblyInfoInputs.cache
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.AssemblyInfo.cs
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.csproj.CoreCompileInputs.cache
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.sourcelink.json
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.dll
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\refint\RiceCooker.dll
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.pdb
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\RiceCooker.genruntimeconfig.cache
+D:\Etude\L3\prog4p1\cc-d2-my-rice-cooker-Michellah\RiceCooker\obj\Debug\net8.0\ref\RiceCooker.dll
