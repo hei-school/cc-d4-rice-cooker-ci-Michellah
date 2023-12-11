@@ -43,7 +43,7 @@ Naming/VariableName:
 
 Metrics/LineLength:
     Enabled: true
-    Max: 100
+    Max: 200
 
 Style/For:
     Enabled: true
