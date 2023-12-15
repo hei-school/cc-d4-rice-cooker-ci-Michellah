@@ -6,6 +6,7 @@ end
 
 def add_water(water)
   raise 'Please specify the amount of water!' if water.nil?
+  raise 'Water amount should be greater than zero!' if water.zero?
 end
 
 def check_item_and_timer(item_to_cook, timer)
@@ -33,7 +34,7 @@ rescue StandardError => e
 end
 
 cook(10, 'rice', nil, has_power: true)
-cook(10, nil, '2c', has_power: true)
-cook(2, 'tomato', '4c', has_power: true)
-cook(2, 'rice', '4c', has_power: true)
-cook(10, 'rice', '4c', has_power: true)
+cook(10, nil, 2, has_power: true)
+cook(2, 'tomato', 4, has_power: true)
+cook(2, 'rice', 4, has_power: true)
+cook(10, 'rice', 4, has_power: true)
