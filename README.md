@@ -1,17 +1,44 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
 
-# RICE COOKER APP
+# Installation de TypeScript
 
-This is a simulation of how a rice cooker works. It's to help you learn how to manage errors. 
+Ce guide vous aidera à configurer TypeScript pour votre projet.
 
-## Language use:
+## Étapes :
 
-1. typescript : https://github.com/hei-school/cc-d2-my-rice-cooker-Michellah/tree/feature/typescript
+### 1. Installation de Node.js et npm
 
-2. c# : https://github.com/hei-school/cc-d2-my-rice-cooker-Michellah/tree/feature/csharp
+- Assurez-vous d'avoir Node.js installé. Vous pouvez le télécharger sur [le site officiel de Node.js](https://nodejs.org/).
 
-3. ruby : https://github.com/hei-school/cc-d2-my-rice-cooker-Michellah/tree/feature/ruby
+### 2. Installation de TypeScript
 
-4. go : https://github.com/hei-school/cc-d2-my-rice-cooker-Michellah/tree/feature/go
+- Une fois Node.js installé, ouvrez votre terminal et exécutez la commande suivante pour installer TypeScript via npm :
 
+  ```bash
+  npm install -g typescript
 
+### 3. Run typescript 
+    ```bash
+    npm install -g typescript
+
+# Linter TypeScript
+
+Ce guide vous aidera à configurer un linter TypeScript pour maintenir la qualité du code dans votre projet.
+
+## Installation :
+
+### 1. Installation de TypeScript
+
+- Assurez-vous d'avoir TypeScript installé dans votre projet en suivant les étapes du guide d'installation [ici](lien-vers-votre-readme-d-installation-typescript).
+
+### 2. Installation du linter TypeScript (ex : ESLint, TSLint)
+
+- Choisissez votre linter TypeScript préféré (ex : ESLint, TSLint).
+
+- Installez le linter TypeScript via npm :
+
+  ```bash
+  npm install eslint typescript-eslint-parser --save-dev
+### 3. Run linter
+    ```bash
+    eslint chemin-vers-vos-fichiers
