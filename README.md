@@ -18,4 +18,4 @@ This is a simulation of how a rice cooker works. It's to help you learn how to m
 
 This project utilizes CI tools to automate testing and continuous integration for various languages. Here's how you can run tests for each language:
 
-1. Go to .cicleci/config.yml when you find the script for the test
+1. Go to .circleci/config.yml when you find the script for the test
