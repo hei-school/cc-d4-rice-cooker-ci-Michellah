@@ -10,8 +10,10 @@
 
 using System;
 
-public class CookingSimulator
+namespace CookingApp
 {
+    public class CookingSimulator
+    {
     public static void CheckPower(bool hasPower)
     {
         if (!hasPower)
@@ -77,5 +79,6 @@ public class CookingSimulator
         Cook(2, "tomato", "4c", true);
         Cook(2, "rice", "4c", true);
         Cook(10, "rice", "4c", true);
+    }
     }
 }
